@@ -1,9 +1,9 @@
-# w
+# ReadMe Generator
 ![License badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 ## Description
-w
+Generate a ReadMe file using the Comand-line
 
 ## Table of Contents
   * [Installation](#installation)
@@ -14,13 +14,13 @@ w
   * [Questions](#questions)
 
 ## Installation
- w
+ Inquirer
 
 ## Usage 
-w
+run using terminal
 
 ## Tests
-w
+npm test
 
 ## Licence
 
@@ -29,9 +29,9 @@ https://opensource.org/licenses/MIT
 
 ## Contributing
 
-Contributors:w
+Contributors:N/A
 
 ## Questions
-Please contact me  https://github.com/w or email w
+Please contact me  https://github.com/Safi1317 or email ali.swaphiyah@gmail.com
 
 
