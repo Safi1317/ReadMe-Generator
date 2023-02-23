@@ -1,9 +1,9 @@
 # ReadMe Generator
-![License badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License badge](https://img.shields.io/badge/License-Apache-yellow.svg)
 
 
 ## Description
-Generate a ReadMe file using the Comand-line
+generating a ReadMe file
 
 ## Table of Contents
   * [Installation](#installation)
@@ -14,22 +14,22 @@ Generate a ReadMe file using the Comand-line
   * [Questions](#questions)
 
 ## Installation
- Inquirer
+ inquirer
 
 ## Usage 
-run using terminal
+terminal
 
 ## Tests
 npm test
 
 ## Licence
 
-This project is licenced underMIT license
-https://opensource.org/licenses/MIT
+This project is licenced under Apache license
+https://opensource.org/licenses/Apache-2.0
 
 ## Contributing
 
-Contributors:N/A
+Contributors: N/A
 
 ## Questions
 Please contact me  https://github.com/Safi1317 or email ali.swaphiyah@gmail.com

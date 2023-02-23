@@ -49,12 +49,12 @@ ${data.Test}
 
 ## Licence
 
-This project is licenced under${data.license} license
+This project is licenced under ${data.license} license
 ${renderLicenseLink(data.license)}
 
 ## Contributing
 
-Contributors:${data.Contributing}
+Contributors: ${data.Contributing}
 
 ## Questions
 Please contact me  https://github.com/${data.Username} or email ${data.Email}
